@@ -12,3 +12,7 @@ The word is randomly picked, and like a regular hangman game, if you run out of 
 ![victory hangman](https://github.com/0scarMoyeda/Hangman-v1/assets/121258455/8a1b99cc-7645-4fec-b0f4-eab1e215a937)
 
 You can also play again and the word will be randomly choosen again by pressing SPACE
+
+NOTE:
+- I am not the owner of the music used in the app (All Star by Smash Mouth), all rights reserved to Smash Mouth.
+- I also am not the owner of the Shrek Images, I simply cut them and used them as a funny joke.
