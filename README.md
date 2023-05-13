@@ -2,6 +2,7 @@
 A pygame app completely made by me in my spare time back in March 2023. It's a simple hangman game featuring simple word guessing, and Shrek as the hangman.
 
 The gameplay is simple. Just type a character and press Enter to guess the word.
+
 ![hangman pic](https://github.com/0scarMoyeda/Hangman-v1/assets/121258455/eeb60f2c-9bfa-4ce7-999e-3ea981b8ac39)
 
 The word is randomly picked, and like a regular hangman game, if you run out of attempts (meaning the hangman completely hanged), you lose the game. Otherwise, you win.
